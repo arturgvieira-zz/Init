@@ -1,14 +1,14 @@
-Begin Develop
-=============
+Develop
+=======
 * chmod +x tools/*.sh
 * ./tools/init.gradle.sh
 
-Begin Deploy to localhost (optional)
-========================
+Deploy to localhost
+===================
 * java -jar deploy/runner/webapp-runner*.jar build/libs/*.war
 
-Begin Deploy with Heroku (optional)
-========================
+Deploy with Heroku
+==================
 * git init
 * git add .
 * git commit -m "Initial commit"
