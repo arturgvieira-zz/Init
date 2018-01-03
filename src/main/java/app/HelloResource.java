@@ -8,7 +8,7 @@ import javax.ws.rs.core.MediaType;
 /**
  * Root resource (exposed at "hello" path)
  */
-@Path("hello")
+@Path("/")
 public class HelloResource {
 
     /**
