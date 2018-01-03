@@ -1,7 +1,7 @@
 Begin Develop
 =============
-* chmod +x *.sh
-* ./init.gradle.sh
+* chmod +x tools/*.sh
+* ./tools/init.gradle.sh
 
 Begin Deploy to localhost (optional)
 ========================

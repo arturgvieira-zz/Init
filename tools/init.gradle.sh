@@ -76,6 +76,6 @@ if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
 
-gradle wrapper
+#gradle wrapper
 gradle build
 exit 0
