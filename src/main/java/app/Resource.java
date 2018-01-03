@@ -20,6 +20,6 @@ public class Resource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt() {
-        return "Hello REST!";
+        return "index.html";
     }
 }
