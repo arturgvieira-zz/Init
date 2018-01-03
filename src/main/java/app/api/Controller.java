@@ -8,7 +8,7 @@ import javax.ws.rs.core.MediaType;
 /**
  * Root resource (exposed at root path)
  */
-@Path("/application")
+@Path("/")
 public class Controller {
 
     /**
