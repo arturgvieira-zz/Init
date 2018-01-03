@@ -13,5 +13,5 @@ Deploy with Heroku
 * git add .
 * git commit -m "Initial commit"
 * (if Heroku CLI is not installed then run init.deploy.sh)
-* heroku create
+* git remote add heroku https://your.repo.git
 * git push heroku
